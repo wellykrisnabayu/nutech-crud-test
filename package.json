@@ -2,7 +2,7 @@
   "name": "nutech-crud-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://wellykrisnabayu.github.io/nutech-test.github.io ",
+  "homepage": "https://wellykrisnabayu.github.io/nutech-crud-test ",
   "dependencies": {
     "@ant-design/icons": "^5.1.4",
     "@testing-library/jest-dom": "^5.16.5",
