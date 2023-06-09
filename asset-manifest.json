@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/nutech-crud-test%20/static/css/main.fe21c278.css",
+    "main.js": "/nutech-crud-test%20/static/js/main.a4ae956f.js",
+    "static/js/293.ec397c20.chunk.js": "/nutech-crud-test%20/static/js/293.ec397c20.chunk.js",
+    "static/js/567.3d87bbd8.chunk.js": "/nutech-crud-test%20/static/js/567.3d87bbd8.chunk.js",
+    "static/js/69.171e47f8.chunk.js": "/nutech-crud-test%20/static/js/69.171e47f8.chunk.js",
+    "static/js/305.0eb2b620.chunk.js": "/nutech-crud-test%20/static/js/305.0eb2b620.chunk.js",
+    "static/js/970.834c15f8.chunk.js": "/nutech-crud-test%20/static/js/970.834c15f8.chunk.js",
+    "static/js/245.20cfc2ed.chunk.js": "/nutech-crud-test%20/static/js/245.20cfc2ed.chunk.js",
+    "static/js/124.cf555baa.chunk.js": "/nutech-crud-test%20/static/js/124.cf555baa.chunk.js",
+    "static/js/955.2e9f745c.chunk.js": "/nutech-crud-test%20/static/js/955.2e9f745c.chunk.js",
+    "static/js/941.3e632965.chunk.js": "/nutech-crud-test%20/static/js/941.3e632965.chunk.js",
+    "static/js/935.56b12193.chunk.js": "/nutech-crud-test%20/static/js/935.56b12193.chunk.js",
+    "index.html": "/nutech-crud-test%20/index.html",
+    "main.fe21c278.css.map": "/nutech-crud-test%20/static/css/main.fe21c278.css.map",
+    "main.a4ae956f.js.map": "/nutech-crud-test%20/static/js/main.a4ae956f.js.map",
+    "293.ec397c20.chunk.js.map": "/nutech-crud-test%20/static/js/293.ec397c20.chunk.js.map",
+    "567.3d87bbd8.chunk.js.map": "/nutech-crud-test%20/static/js/567.3d87bbd8.chunk.js.map",
+    "69.171e47f8.chunk.js.map": "/nutech-crud-test%20/static/js/69.171e47f8.chunk.js.map",
+    "305.0eb2b620.chunk.js.map": "/nutech-crud-test%20/static/js/305.0eb2b620.chunk.js.map",
+    "970.834c15f8.chunk.js.map": "/nutech-crud-test%20/static/js/970.834c15f8.chunk.js.map",
+    "245.20cfc2ed.chunk.js.map": "/nutech-crud-test%20/static/js/245.20cfc2ed.chunk.js.map",
+    "124.cf555baa.chunk.js.map": "/nutech-crud-test%20/static/js/124.cf555baa.chunk.js.map",
+    "955.2e9f745c.chunk.js.map": "/nutech-crud-test%20/static/js/955.2e9f745c.chunk.js.map",
+    "941.3e632965.chunk.js.map": "/nutech-crud-test%20/static/js/941.3e632965.chunk.js.map",
+    "935.56b12193.chunk.js.map": "/nutech-crud-test%20/static/js/935.56b12193.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe21c278.css",
+    "static/js/main.a4ae956f.js"
+  ]
+}

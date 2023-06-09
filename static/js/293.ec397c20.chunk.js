@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunknutech_crud_test=self.webpackChunknutech_crud_test||[]).push([[293],{293:function(e,t,c){c.r(t);var r=c(9245),s=(c(2791),c(7689)),n=c(184);t.default=function(){return(0,n.jsx)(r.ZP,{theme:{token:{colorPrimary:"#aa00ff"}},children:(0,n.jsx)("div",{className:"h-screen flex items-center justify-center overflow-scroll",children:(0,n.jsx)(s.j3,{})})})}}}]);
+//# sourceMappingURL=293.ec397c20.chunk.js.map
